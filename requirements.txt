@@ -1,0 +1,8 @@
+# Dependency names only, NOT a frozen record of the historical GPU environment.
+# Install a TensorFlow build appropriate for your operating system/GPU separately.
+numpy
+pandas
+scipy
+openpyxl
+tensorflow
+networkit

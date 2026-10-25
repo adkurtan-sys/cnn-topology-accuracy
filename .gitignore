@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+analysis/rezultati/
+training/datasets/
+training/runs/
+training/merged_*/
+benchmark/new_run*/
+# Original published timing CSV/JSON files in benchmark/results are NOT ignored.
